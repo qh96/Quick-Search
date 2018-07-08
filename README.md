@@ -1,4 +1,4 @@
-# Quick-Stackoverflow
+# Quick-Search
 
 A chrome extension for quick search
 
